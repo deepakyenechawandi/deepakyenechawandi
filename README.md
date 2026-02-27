@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About:
+# 💫 About Me:
 
 🔭 I’m currently working on building end-to-end data science projects — from data cleaning and exploratory data analysis (EDA) to developing and evaluating machine learning models.
 
