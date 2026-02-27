@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on improving data visualization techniques and building dashboards to uncover actionable insights from complex datasets.<br><br>👯 I’m looking to collaborate on data-driven projects, especially those focused on social impact, market analysis, or business intelligence.<br><br>🤝 I’m looking for help with mastering advanced machine learning algorithms and deploying data science models at scale.<br><br>🌱 I’m currently learning Python libraries like Pandas, NumPy, and Matplotlib, as well as SQL optimization and Power BI for enhanced reporting.<br><br>💬 Ask me about data cleaning, statistical analysis, or best practices in creating impactful data stories.<br><br>⚡ Fun fact: I love turning raw numbers into meaningful stories and can spend hours tweaking a dashboard to make it perfect!<br>
+# 💫 About:
 
+🔭 I’m currently working on building end-to-end data science projects — from data cleaning and exploratory data analysis (EDA) to developing and evaluating machine learning models.
+
+👯 I’m looking to collaborate on data-driven projects involving predictive analytics, machine learning, and real-world problem solving — especially in areas like social impact, business optimization, and intelligent systems.
+
+🤝 I’m actively improving my understanding of advanced machine learning algorithms, model tuning, and deploying scalable data science solutions.
+
+🌱 I’m currently strengthening my skills in Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, statistics, and model evaluation techniques.
+
+💬 Ask me about EDA, feature engineering, regression/classification models, or turning raw datasets into predictive insights.
+
+⚡ Fun fact: I enjoy transforming complex datasets into intelligent solutions — and I love experimenting with models until they perform at their best!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deepakyenechawandi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakyenechawandi@gmail.com) 
